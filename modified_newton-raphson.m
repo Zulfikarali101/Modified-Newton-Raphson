@@ -1,4 +1,4 @@
-%Metode Modified Newton-Raphson
+%Modified Newton-Raphson
 %Zulfikar Ali Ibadurrahman
 %12918030
 
